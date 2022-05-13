@@ -1,0 +1,270 @@
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\source\repos\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.1\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.2\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.3\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.3 — копия (2) — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.4\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.4 — копия (2)\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.5 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.6 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.7 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.8 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\v_1.9 — копия\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\bin\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\source\repos\PeerGrade\PeerGrade4\v_1.10 — released\PeerGrade4\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\bin\Debug\net5.0-windows\NotePad.exe
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\bin\Debug\net5.0-windows\NotePad.deps.json
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.json
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\bin\Debug\net5.0-windows\NotePad.runtimeconfig.dev.json
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\bin\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\bin\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.AssemblyReference.cache
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\obj\Debug\net5.0-windows\NotePad.Form1.resources
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.GenerateResource.cache
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\obj\Debug\net5.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\obj\Debug\net5.0-windows\NotePad.AssemblyInfo.cs
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\obj\Debug\net5.0-windows\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\obj\Debug\net5.0-windows\NotePad.dll
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\obj\Debug\net5.0-windows\refint\NotePad.dll
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\obj\Debug\net5.0-windows\NotePad.pdb
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\obj\Debug\net5.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\Levon0\Desktop\Review\notepad-shell\NotepadShell\NotePad\obj\Debug\net5.0-windows\ref\NotePad.dll
